@@ -1,5 +1,4 @@
 # 🌡️ Multi-Effect Evaporator – Process Control Project
-![Simulink Model Overview](images/simulink_model.png)
 
 ### 🎯 Project Overview
 This project models and controls a **three-effect evaporator** using **MATLAB/Simulink**.  
