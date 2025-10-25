@@ -26,7 +26,6 @@ The model includes actuator and sensor dynamics, as well as dead time and realis
 | MAT File | `simulation_properties.mat` | Simulation setup (solver, time, and constants) |
 | Simulink Model | `multi_effect_evaporator.slx` | Main model connecting PID, evaporator, and scope |
 | PowerPoint | `Process Control Mini-Project.pptx` | Presentation slides for project defense |
-| PDF | `Process Control Mini-Project Report.pdf` | Written report summarizing objectives and results |
 
 ---
 
